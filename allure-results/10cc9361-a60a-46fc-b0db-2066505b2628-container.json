@@ -1,0 +1,1 @@
+{"uuid":"10cc9361-a60a-46fc-b0db-2066505b2628","name":"Tests.T01_RegisterTest.quit","children":["4971f871-a311-4c04-b74f-c9066b042d3f"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1707719851965,"stop":1707719852301}],"start":1707719851965,"stop":1707719852301}
